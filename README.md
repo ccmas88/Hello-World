@@ -5,7 +5,7 @@ Plus talking about running and yoga
  $\sqrt{3x-1}+(1+x)^2$
 ```mermaid
 graph TD;
-    A-->B;
+    f(x)-->y;
     A-->C;
     A-->E-->Y;
     B-->D;
