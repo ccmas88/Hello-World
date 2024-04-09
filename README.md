@@ -11,29 +11,4 @@ graph TD;
     B-->D;
     C-->D;
 ```
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-30,55],
-              [-40,50],
-              [-50,30],
-              [-60,55],
-              [-70,55]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
+
