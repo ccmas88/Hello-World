@@ -14,7 +14,7 @@ graph TD;
          Linear-->Standard;
     Math-->Quadratics;
          Quadratics-->Standard;
-                 Standard-->ax^2+bx+c;
+                 Standard-->"ax^2+bx+c";
          Quadratics-->Vertex;
     Math-->Polynomials;
     Math-->Rational;
