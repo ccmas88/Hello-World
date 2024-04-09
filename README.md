@@ -7,7 +7,7 @@ Plus talking about running and yoga
 graph TD;
     Math-->Sets;
     Math-->Linear;
-    Math-->Linear;
-    Math-->Linear;
+    Math-->Quadratics;
+    Math-->Polynomials;
 ```
 
