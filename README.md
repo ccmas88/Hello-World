@@ -7,7 +7,7 @@ Plus talking about running and yoga
 graph TD;
     Math-->Sets;
     Math-->Linear;
-    B-->D;
-    C-->D;
+    Math-->Linear;
+    Math-->Linear;
 ```
 
