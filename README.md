@@ -9,5 +9,9 @@ graph TD;
     Math-->Linear;
     Math-->Quadratics;
     Math-->Polynomials;
+    Math-->Sets;
+    Math-->Linear;
+    Math-->Quadratics;
+    Math-->Polynomials;
 ```
 
