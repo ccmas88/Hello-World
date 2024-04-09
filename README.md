@@ -7,6 +7,7 @@ Plus talking about running and yoga
 graph TD;
     Math-->Sets;
          Sets-->Domain;
+              Domain-->X;
          Sets-->Range;
     Math-->Linear;
          Linear-->Slope-Intercept;
