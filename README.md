@@ -6,6 +6,8 @@ Plus talking about running and yoga
 ```mermaid
 graph TD;
     Math-->Sets;
+         Sets-->Domain;
+         Sets-->Range;
     Math-->Linear;
     Math-->Quadratics;
     Math-->Polynomials;
