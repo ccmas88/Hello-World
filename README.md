@@ -5,8 +5,8 @@ Plus talking about running and yoga
  $\sqrt{3x-1}+(1+x)^2$
 ```mermaid
 graph TD;
-    Math-->C;
-    A-->E-->Y;
+    Math-->Sets;
+    Math-->Linear;
     B-->D;
     C-->D;
 ```
