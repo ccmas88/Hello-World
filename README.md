@@ -7,7 +7,7 @@ Plus talking about running and yoga
 graph TD;
     A-->B;
     A-->C;
-    A-->E;
+    A-->E-->Y;
     B-->D;
     C-->D;
 ```
